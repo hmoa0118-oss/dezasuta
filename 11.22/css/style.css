@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+ul{display: flex;
+    list-style: none;
+    justify-content:space-between ;
+    background-color: beige;
+    padding: 20px 0;
+}
